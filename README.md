@@ -119,20 +119,28 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
+![dipexp5-1](https://user-images.githubusercontent.com/75235601/167664344-b563bcae-faca-44ec-964d-3e6031caa73a.png)
+![dipexp5-2](https://user-images.githubusercontent.com/75235601/167664359-4e43cf9d-7c2b-4d15-b81c-03c2598febd6.png)
+
 
 ### ii) Image Scaling
+![dipexp5-3](https://user-images.githubusercontent.com/75235601/167664396-486815d0-9f0d-49c2-846f-a65a7fbb9fbb.png)
 
 
 ### iii)Image shearing
+![dipexp5-4](https://user-images.githubusercontent.com/75235601/167664412-dffb08ec-defb-4fdc-b844-178e4e45409d.png)
 
 
 ### iv)Image Reflection
+![dipexp5-5](https://user-images.githubusercontent.com/75235601/167664448-c55343d4-06d3-4367-bcf5-d92ee54da82e.png)
+![dipexp5-6](https://user-images.githubusercontent.com/75235601/167664461-f7556680-a50d-4b46-97a5-e6dc24a942b3.png)
 
 
 ### v)Image Rotation
+![dipexp5-7](https://user-images.githubusercontent.com/75235601/167664472-987237b7-1249-4003-aa18-6f62e060efc2.png)
 
 ### vi)Image Cropping
-
+![dipexp5-8](https://user-images.githubusercontent.com/75235601/167664486-b9560cf2-2720-4ab1-9e94-688abf11d784.png)
 
 ## RESULT: 
 
